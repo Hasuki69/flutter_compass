@@ -3,7 +3,7 @@ description: Demonstrates how to use the flutter_compass plugin.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.5.0 <4.0.0"
 
 # cupertino_icons,permission_handler
 dependencies:
